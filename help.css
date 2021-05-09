@@ -1,0 +1,73 @@
+body {
+    background-image: url(images/heroes2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1240px;
+}
+header {
+    height: 118px;
+    text-align: center;
+    padding-top: 20px;
+}
+nav {
+    background-color: rgba(0, 0, 0, 0.219);
+    text-align: center;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    font-size: 10px;
+}
+main {
+    height: 400px;
+    text-align: center;
+    padding-top: 35px;
+    padding-right: 240px;
+    padding-left: 240px;
+}
+p {
+    font-size: 16px;
+    color: black;
+    font-family: 'comic sans','Times New Roman', Times, serif;
+
+}
+main a {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: black;
+    text-underline-position: below;
+    background-color: rgba(20, 18, 126, 0.733);
+    
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 12px;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+footer {
+    background-color: rgba(0, 0, 0, 0.411);
+    font-size: 8px;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
+.lower {
+    padding-bottom: 14px;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    font-family: 'comic sans','Times New Roman', Times, serif;
+}
+h2 {
+    font-size: 70px;
+    font-style: oblique;
+    font-stretch: expanded;
+    font-optical-sizing: 60px;
+}
